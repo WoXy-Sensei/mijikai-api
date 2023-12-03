@@ -9,7 +9,6 @@
       "./tsconfig.json"
     ]
   },
-  "extends": "airbnb-typescript/base",
   "plugins": [
     "import",
     "@typescript-eslint"
@@ -21,7 +20,8 @@
     "no-return-assign": 0,
     "camelcase": 0,
     "import/extensions": 0,
-    "@typescript-eslint/no-redeclare": 0
+    "@typescript-eslint/no-redeclare": 0,
+    
   },
   "settings": {
     "import/parsers": {

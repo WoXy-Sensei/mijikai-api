@@ -12,7 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "keywords": [],
-  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "author": "Bardia Ramez",
   "repository": {
     "type": "git",
     "url": "https://github.com/w3cj/express-api-starter.git"
@@ -23,6 +23,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "helmet": "^7.1.0",
+    "mongoose": "^8.0.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
