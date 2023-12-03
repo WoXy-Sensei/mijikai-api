@@ -32,6 +32,6 @@ This simple application shortens a given long URL, providing you with a short li
 
 ## Installation
 
-1 - Clone the project to your local machine.
-2 - Run the npm install command in the terminal to install the required dependencies.
-3 - Use the npm start command to start the application.
+1. Clone the project to your local machine.
+2. Run the npm install command in the terminal to install the required dependencies.
+3. Use the npm start command to start the application.
